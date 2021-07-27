@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color:black;
+}
+
+.nav{
+background-color:greenyellow;
+margin: 0px;
+padding: 50px;
+}
+
+p{
+    color: darkolivegreen;
+}
+
+.nav a{
+    
+    text-decoration: none;
+    float: right;
+    margin-right: 32px;
+    font-size: 20px;
+}
+.nav a:hover{
+    color: whitesmoke;
+}
+
+.hot-seat{
+    background-color:greenyellow;
+    padding: 30px;
+    border-radius: 50px 50px;
+}
+
+.minions{
+    background-color:greenyellow ;
+    border-radius: 50px 50px;
+}
+
+svg{
+    height: 35%;
+    width: 35%;
+}
+button{
+    padding: 4px;
+    border-radius: 15px 15px;
+    background-color:black;
+    text-decoration: none;
+}
+button a{
+    
+    
+    color: yellowgreen;
+    text-decoration: none;
+    font: 10px;
+    padding: 4px;
+    margin: 4px;
+    
+}
+
+h1{
+    font-size: 40px;
+}
+
+footer{
+    
+    background-color: grey;
+      color: black;
+      padding: 16px;
+      
+  }
+  .foot a{
+      
+  text-decoration: none;
+  padding: 10px;
+  color: black;
+  
+  }
+
+  a{
+      color:blueviolet;
+      text-decoration: none;
+      font-size: 20px;
+  }
+
+.foot a:hover{
+    color: greenyellow;
+}

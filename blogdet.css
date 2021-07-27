@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color:black;
+}
+
+.nav{
+background-color:greenyellow;
+margin: 0px;
+padding: 50px;
+}
+
+.nav a{
+    
+    text-decoration: none;
+    float: right;
+    margin-right: 32px;
+    font-size: 20px;
+}
+.nav a:hover{
+    color: whitesmoke;
+}
+
+.BAJAJ-FINSERV{
+    background-color: chartreuse;
+    border-radius: 50px 50px;
+}
+.TATA-STEEL{
+    background-color: chartreuse;
+    border-radius: 50px 50px;
+}
+a{
+    text-decoration: grey;
+}
+
+
+
+footer{
+    
+    background-color: grey;
+      color: black;
+      padding: 16px;
+      
+  }
+  .foot a{
+      
+  text-decoration: none;
+  padding: 10px;
+  color: black;
+  
+  }
+
+  a{
+      color:blueviolet;
+      text-decoration: none;
+      font-size: 20px;
+  }
+  p{
+      color: darkolivegreen;
+  }

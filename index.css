@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color:black;
+}
+
+.nav{
+background-color:greenyellow;
+margin: 0px;
+padding: 50px;
+}
+h1{
+    font-size: 40px;
+}
+.nav a{
+    
+    text-decoration: none;
+    float: right;
+    margin-right: 32px;
+    font-size: 20px;
+}
+.nav a:hover{
+    color: whitesmoke;
+}
+
+svg{
+    height: 35%;
+    width: 35%;
+}
+
+.skill{
+    background-color: greenyellow;
+    border-radius: 50px 50px;
+}
+
+.blogs{
+    background-color: greenyellow;
+    border-radius: 50px 50px;
+}
+button{
+    border-radius: 50px 50px;
+    padding: 4px;
+    background-color:whitesmoke;
+}
+button a{
+    color:blueviolet;
+    text-decoration: none;
+   
+}
+
+
+footer{
+    
+    background-color: grey;
+      color: black;
+      padding: 16px;
+      
+  }
+  .foot a{
+      
+  text-decoration: none;
+  padding: 10px;
+  color: black;
+  
+  }
+
+  a{
+      color: blueviolet;
+      text-decoration: none;
+      font-size: 20px;
+  }
+  p{
+      color: darkolivegreen;
+  }

@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color:black;
+}
+
+.nav{
+background-color:greenyellow;
+margin: 0px;
+padding: 50px;
+}
+
+.nav a{
+    
+    text-decoration: none;
+    float: right;
+    margin-right: 32px;
+    font-size: 20px;
+}
+.nav a:hover{
+    color: whitesmoke;
+}
+h1{
+    font-size: 40px;
+}
+
+img{
+    border-radius: 50px 50px;
+}
+p{
+    color: darkslategrey;
+}
+
+.bazzar{
+    background-color: chartreuse;
+    border-radius: 50px 50px;
+}
+
+.Ludo{
+    background-color: chartreuse;
+    border-radius: 50px 50px;
+}
+
+
+.Aquaman{
+    background-color: chartreuse;
+    border-radius: 50px 50px; 
+}
+
+footer{
+    
+    background-color:grey;
+      color: black;
+      padding: 16px;
+      
+  }
+  .foot a{
+      
+  text-decoration: none;
+  padding: 10px;
+  color: black;
+  
+  }
+
+  a{
+      color: blueviolet;
+      text-decoration: none;
+      font-size: 20px;
+  }

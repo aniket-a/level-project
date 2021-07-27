@@ -1,0 +1,81 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color:black;
+}
+
+h2{
+    color: grey;
+}
+small{
+    color: grey;
+}
+p{
+    color: olivedrab;
+}
+.nav{
+background-color:greenyellow;
+margin: 0px;
+padding: 50px;
+}
+h1{
+    font-size: 40px;
+}
+.nav a{
+    
+    text-decoration: none;
+    float: right;
+    margin-right: 32px;
+    font-size: 20px;
+}
+.nav a:hover{
+    color: whitesmoke;
+}
+.read2{
+    background-color: greenyellow;
+    border-radius: 50px 50px;
+}
+
+
+button{
+    padding: 4px;
+    border-radius: 15px 15px;
+    background-color:black;
+    text-decoration: none;
+}
+button a{
+    
+    
+    color: yellowgreen;
+    text-decoration: none;
+    font: 10px;
+    padding: 4px;
+    margin: 4px;
+    
+}
+
+
+
+footer{
+    
+    background-color: grey;
+      color: black;
+      padding: 16px;
+      
+  }
+  .foot a{
+      
+  text-decoration: none;
+  padding: 10px;
+  color: black;
+  
+  }
+
+  a{
+      color: blueviolet;
+      text-decoration: none;
+      font-size: 20px;
+  }
