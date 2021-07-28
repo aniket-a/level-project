@@ -57,12 +57,14 @@ button a{
     
 }
 
-
+h3{
+    color: white;
+}
 
 footer{
     
-    background-color: grey;
-      color: black;
+    background-color: black;
+      color: white;
       padding: 16px;
       
   }
@@ -70,7 +72,7 @@ footer{
       
   text-decoration: none;
   padding: 10px;
-  color: black;
+  color: white;
   
   }
 
