@@ -31,12 +31,19 @@ p{
 .hot-seat{
     background-color:greenyellow;
     padding: 30px;
-    border-radius: 50px 50px;
+    
 }
 
 .minions{
     background-color:greenyellow ;
-    border-radius: 50px 50px;
+   
+}
+
+.triangles{
+    background-color: greenyellow;
+}
+.cash{
+    background-color: greenyellow;
 }
 
 svg{
