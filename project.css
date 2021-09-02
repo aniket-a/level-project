@@ -16,7 +16,13 @@ padding: 50px;
 p{
     color: darkolivegreen;
 }
-
+.foot a i{
+      
+    text-decoration: none;
+    padding: 10px;
+    color:yellow;
+    
+    }
 .nav a{
     
     text-decoration: none;

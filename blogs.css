@@ -6,7 +6,12 @@
 body{
     background-color:whitesmoke;
 }
-
+.foot a i{
+    text-decoration: none;
+    padding: 10px;
+    color:yellow;
+    
+    }
 h2{
     color: grey;
 }
